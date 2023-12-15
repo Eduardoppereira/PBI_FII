@@ -34,6 +34,11 @@ Bem-vindo ao Dashboard de Análise de Fundos Imobiliários, sua plataforma inter
 Pode acessar o link abaixo para acessar o dashboard:
  - 🔗 [Dashboard - Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiZDUyYjQxMzYtNDY4ZC00YzE0LTgxMzMtMTJmMGZiMDUyNWM0IiwidCI6Ijc1MGRkNzEzLWU4ZDUtNDZmMi04YThkLTE0ZjdkNTkwODA5YiJ9)
 
+#### Capturas de Tela
+<p align="center">
+  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_ATENDIMENTO/blob/main/Vers%C3%A3o%203%20-%20VIVO%20(1).png" width=60%>
+</p>
+
 ## Tecnologias Utilizadas
 <p align="left">  
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
