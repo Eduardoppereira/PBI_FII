@@ -36,10 +36,7 @@ Pode acessar o link abaixo para acessar o dashboard:
 
 #### Capturas de Tela
 <p align="LEFT">
-  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII1.png" width=60%>
-</p>
-<p align="LEFT">
-  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII2.png" width=60%>
+  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII1.png" width=80%>
 </p>
 
 ## Tecnologias Utilizadas
