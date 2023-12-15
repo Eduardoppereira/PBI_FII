@@ -35,8 +35,11 @@ Pode acessar o link abaixo para acessar o dashboard:
  - 🔗 [Dashboard - Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiZDUyYjQxMzYtNDY4ZC00YzE0LTgxMzMtMTJmMGZiMDUyNWM0IiwidCI6Ijc1MGRkNzEzLWU4ZDUtNDZmMi04YThkLTE0ZjdkNTkwODA5YiJ9)
 
 #### Capturas de Tela
-<p align="center">
-  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_ATENDIMENTO/blob/main/Vers%C3%A3o%203%20-%20VIVO%20(1).png" width=60%>
+<p align="LEFT">
+  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII1.png" width=60%>
+</p>
+<p align="LEFT">
+  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII2.png" width=60%>
 </p>
 
 ## Tecnologias Utilizadas
